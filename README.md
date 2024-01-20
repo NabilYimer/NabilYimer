@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nabil! <br/><a href="https://github.com/NabilYimer)">Programmer</a>, <a href="https://www.linkedin.com/in/nabilyimer/">Stansford Certified Ai dev.</a>, <a href="https://www.youtube.com/">soon YouTuber</a></h1>
+<h1>Hi, I'm Nabil! <br/><a href="https://github.com/NabilYimer">Programmer</a>, <a href="https://www.linkedin.com/in/nabilyimer/">Stansford Certified Ai dev.</a>, <a href="https://www.youtube.com/">soon YouTuber</a></h1>
 
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
@@ -14,8 +14,6 @@
   
 - <b>Intermidate projects(Data Focused,Data collection, Research,LLM , NLP) </b>
   - [ChurnGuard: Predicting Customer Churn in Banking with Precision Classification](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
   - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
   - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
   - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)<b>
