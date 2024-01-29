@@ -1,29 +1,27 @@
 <h1>Hi, I'm Nabil! <br/><a href="https://github.com/NabilYimer">Programmer</a>, <a href="https://www.linkedin.com/in/nabilyimer/">Stansford Certified Ai dev.</a>, <a href="https://www.youtube.com/">soon YouTuber</a></h1>
 
 <h2>👨‍💻 Machine Learning Projects:</h2>
-
-- <b>Beginner Projects:</b>
-  - [Sophisticated Residency Valuation using Advanced Regression Modeling](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Neural Artisan: MINIST Digit Recognition with Deep Learning Precision](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [ChurnGuard: Predicting Customer Churn in Banking with Binary Classification](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [SecureSwipe: Safeguarding Credit Card Transactions with Anomaly Detection ](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
-  
-- <b>Intermidate projects(Data Focused,Data collection, Research,LLM , NLP) </b>
-  - [ChurnGuard: Predicting Customer Churn in Banking with Precision Classification](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)<b>
-  
 - <b>Advanced End-to-End Projects (API integration, MLOpes , Flask)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-    
+
+- <b>Intermidate projects(Data Focused,Data collection, Research,LLM , NLP) </b>
+  - [ChurnGuard: Predicting Customer Churn in Banking with Precision Classification](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
+  
+
+- <b>Beginner Projects:</b>
+  - [Sophisticated Residency Valuation using Advanced Regression Modeling](https://github.com/NabilYimer/Residency-Valuation-using-Advanced-Regression-Modeling)
+  - [Neural Artisan: MINIST Digit Recognition with Deep Learning Precision](https://github.com/NabilYimer/Neural-Artisan-MINIST-Digit-Recognition-with-Deep-Learning-Precision)
+  - [ChurnGuard: Predicting Customer Churn in Banking with Binary Classification](https://github.com/NabilYimer/ChurnGuard-Predicting-Customer-Churn-in-Banking-with-Binary-Classification)
+  - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/NabilYimer/CustomerHarbor-Clustering-Wholesale-Customers-for-In-Depth-Spending-Insights)
+  - [SecureSwipe: Safeguarding Credit Card Transactions with Anomaly Detection ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
+  
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
