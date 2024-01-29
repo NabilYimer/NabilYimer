@@ -3,8 +3,8 @@
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
 - <b>Advanced End-to-End Projects (API integration, MLOpes , Flask)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Traffic Light Detection](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Personal Sales Practice Customer)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
