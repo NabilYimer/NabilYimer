@@ -16,11 +16,11 @@
   
 
 - <b>Beginner Projects:</b>
+  - [MovieLensSpectrum: Personalized Movie Recommendations with Multiple Algorithms](https://github.com/NabilYimer/MovieLensSpectrum-Personalized-Movie-Recommendations-with-Collaborative-Filtering-Expertise/tree/main)
   - [Sophisticated Residency Valuation using Advanced Regression Modeling](https://github.com/NabilYimer/Residency-Valuation-using-Advanced-Regression-Modeling)
   - [Neural Artisan: MINIST Digit Recognition with Deep Learning Precision](https://github.com/NabilYimer/Neural-Artisan-MINIST-Digit-Recognition-with-Deep-Learning-Precision)
   - [ChurnGuard: Predicting Customer Churn in Banking with Binary Classification](https://github.com/NabilYimer/ChurnGuard-Predicting-Customer-Churn-in-Banking-with-Binary-Classification)
   - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/NabilYimer/CustomerHarbor-Clustering-Wholesale-Customers-for-In-Depth-Spending-Insights)
-  - [SecureSwipe: Safeguarding Credit Card Transactions with Anomaly Detection ](https://github.com/joshmadakor1/Algorithms-Practice)
   - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
   
 - <b>Python</b>
