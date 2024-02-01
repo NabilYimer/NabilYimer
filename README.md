@@ -21,7 +21,7 @@
   - [Neural Artisan: MINIST Digit Recognition with Deep Learning Precision](https://github.com/NabilYimer/Neural-Artisan-MINIST-Digit-Recognition-with-Deep-Learning-Precision)
   - [ChurnGuard: Predicting Customer Churn in Banking with Binary Classification](https://github.com/NabilYimer/ChurnGuard-Predicting-Customer-Churn-in-Banking-with-Binary-Classification)
   - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/NabilYimer/CustomerHarbor-Clustering-Wholesale-Customers-for-In-Depth-Spending-Insights)
-  - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SecureSwipe: Safeguarding Credit Card Transactions with Anomaly Detection](https://github.com/NabilYimer/SecureSwipe-Safeguarding-Credit-Card-Transactions-with-Anomaly-Detection)
   
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
