@@ -4,9 +4,7 @@
 
 - <b>Advanced End-to-End Projects (API integration, MLOpes , Flask)</b>
   - [Traffic Light Detection](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Personal Sales Practice Customer)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Personal Sales Practice Customer](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
 - <b>Intermidate projects(Data Focused,Data collection, Research,LLM , NLP) </b>
   - [ChurnGuard: Predicting Customer Churn in Banking with Precision Classification](https://github.com/joshmadakor1/Algorithms-Practice)
