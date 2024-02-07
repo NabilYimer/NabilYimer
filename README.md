@@ -12,7 +12,7 @@
   - [ChurnGuard: Predicting Customer Churn in Banking with Precision Classification](https://github.com/joshmadakor1/Algorithms-Practice)
   - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
   - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [OmniLightVision: Enchanted Traffic Light Detection with Custom YOLOv8 Training](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [OmniLightVision: Enchanted Traffic Light Detection with Custom YOLOv8 Training](https://github.com/NabilYimer/OmniLightVision)
   
 
 - <b>Beginner Projects:</b>
