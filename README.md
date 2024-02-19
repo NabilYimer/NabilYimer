@@ -9,7 +9,7 @@
 - <b>Intermidate projects(Data Focused,Data collection, Research,LLM , NLP) </b>
   - [ChurnGuard: Predicting Customer Churn in Banking with Precision Classification](https://github.com/joshmadakor1/Algorithms-Practice)
   - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SentifyMaster: Twitter Sentiment Analysis](https://github.com/NabilYimer/SentifyMaster-Twitter-Sentiment-Analysis)
   - [OmniLightVision: Enchanted Traffic Light Detection with Custom YOLOv8 Training](https://github.com/NabilYimer/OmniLightVision)
   
 
