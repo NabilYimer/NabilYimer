@@ -3,12 +3,12 @@
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
 - <b>Advanced End-to-End Projects (API integration, MLOpes , Flask)</b>
-  - [Traffic Light Detection](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Personal Sales Practice Customer](https://github.com/joshmadakor1/Jwipe.PowerShell)
+
+  - [----](----)
+  - [Personal Sales Practice Customer](----)
 
 - <b>Intermidate projects(Data Focused,Data collection, Research,LLM , NLP) </b>
-  - [ChurnGuard: Predicting Customer Churn in Banking with Precision Classification](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
   - [SentifyMaster: Twitter Sentiment Analysis](https://github.com/NabilYimer/SentifyMaster-Twitter-Sentiment-Analysis)
   - [OmniLightVision: Enchanted Traffic Light Detection with Custom YOLOv8 Training](https://github.com/NabilYimer/OmniLightVision)
   
@@ -22,7 +22,7 @@
   - [SecureSwipe: Safeguarding Credit Card Transactions with Anomaly Detection](https://github.com/NabilYimer/SecureSwipe-Safeguarding-Credit-Card-Transactions-with-Anomaly-Detection)
   
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [----](----)
 
 <h2>📺 Certifications</h2>
 
