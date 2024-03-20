@@ -6,8 +6,8 @@
 
 - <b>Advanced End-to-End Projects (API integration, MLOpes , Flask)</b>
 
-  - [----](----)
-  - [Personal Sales Practice Customer](----)
+  - [----](--)
+  - [----](--Personal_Sales_Practice_Customer.com)
 
 - <b>Intermidate projects(Data Focused,Data collection, Research,LLM , NLP) </b>
  
