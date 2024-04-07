@@ -6,8 +6,7 @@
 
 - <b>Advanced End-to-End Projects (API integration, MLOpes , Flask)</b>
 
-  - [----](--)
-  - [----](--Personal_Sales_Practice_Customer.com)
+  - [Real Estate search engine with NLP and streamlit](https://github.com/NabilYimer/estatelookout.ai)
 
 - <b>Intermidate projects(Data Focused,Data collection, Research,LLM , NLP) </b>
  
@@ -23,8 +22,6 @@
   - [CustomerHarbor: Clustering Wholesale Customers for In-Depth Spending Insights](https://github.com/NabilYimer/CustomerHarbor-Clustering-Wholesale-Customers-for-In-Depth-Spending-Insights)
   - [SecureSwipe: Safeguarding Credit Card Transactions with Anomaly Detection](https://github.com/NabilYimer/SecureSwipe-Safeguarding-Credit-Card-Transactions-with-Anomaly-Detection)
   
-- <b>Python</b>
-  - [----](----)
 
 <h2>📺 Certifications</h2>
 
