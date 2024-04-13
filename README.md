@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nabil! <br/><a href="https://github.com/NabilYimer">Programmer</a>, <a href="https://www.linkedin.com/in/nabilyimer/">Stansford Certified Ai dev.</a>, <a href="https://www.youtube.com/">soon YouTuber</a></h1>
 
-![animation_500_kxa883sd](https://github.com/NabilYimer/NabilYimer/assets/70453045/acbbbe0a-cdd5-4de4-96b8-506dc6b44db6)
+![](https://komarev.com/ghpvc/?username=NabilYimer)
 
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
