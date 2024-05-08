@@ -23,12 +23,9 @@ Here are some of the technologies and tools I frequently work with:
 
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
-- <b>Advanced End-to-End Projects (API integration, MLOpes , Flask)</b>
+- <b>Advanced End-to-End Projects (API integration, Docker , Flask)</b>
 
   - [Real Estate search engine with NLP and streamlit](https://github.com/NabilYimer/estatelookout.ai)
-
-- <b>Intermidate projects(Data Focused, Data collection, Research) </b>
- 
   - [SentifyMaster: Twitter Sentiment Analysis](https://github.com/NabilYimer/SentifyMaster-Twitter-Sentiment-Analysis)
   - [OmniLightVision: Enchanted Traffic Light Detection with Custom YOLOv8 Training](https://github.com/NabilYimer/OmniLightVision)
   
