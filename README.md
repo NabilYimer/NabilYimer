@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nabil! <br/><a href="https://github.com/NabilYimer">Programmer</a>, <a href="https://www.linkedin.com/in/nabilyimer/">Stansford Certified Ai dev.</a>, <a href="https://www.youtube.com/">soon YouTuber</a></h1>
+<h1>Hi, I'm Nabil! <br/><a href="https://github.com/NabilYimer">Programmer</a>, <a href="https://www.linkedin.com/in/nabilyimer/">Stansford Certified AI dev.</a>, <a href="https://www.youtube.com/">soon YouTuber</a></h1>
 
 ![](https://komarev.com/ghpvc/?username=NabilYimer)
 
